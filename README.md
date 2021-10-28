@@ -3,6 +3,7 @@
 I make elegantly professional **🌐 Websites** for fun and also **Write some blog posts**.   
 
 * 🧐   Interested in full stack positions.
+* 🧱   Learning: Python, JavaScript and C++
 * 💼   Still a Project Manager at Siigsa.
 * 🎓   Software Developer and Designer from Duoc UC, Santiago, Chile.
 * 🌱   Believer and Modern Philosopher.
