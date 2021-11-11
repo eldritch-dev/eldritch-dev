@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I make elegantly professional **🌐 Websites** for fun and also **Write some blog posts**.   
+I make elegantly professional **🌐 Websites** for fun and also **write some blog posts**.   
 
 * 🧐   Interested in full stack positions.
 * 🧱   Learning: Python, JavaScript and eventually if I can, C++
