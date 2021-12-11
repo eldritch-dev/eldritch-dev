@@ -4,7 +4,7 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 
 * 🧐   Interested in full stack positions.
 * 🧱   Learning: Python, JavaScript and eventually if I can, C++
-* 💼   Project Manager at Siigsa.
+* 💼   Software Developer at AyT.
 * 🎓   Software Developer and Designer from Duoc UC, Santiago, Chile.
 * 🌱   Believer and Modern Philosopher.
 * 📚   Reading Clean Code: A Handbook of Agile Software Craftsmanship.
