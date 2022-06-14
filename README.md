@@ -3,7 +3,8 @@
 I make elegantly professional **🌐 Websites** for fun and also **write some blog posts**.   
 
 * 🧐   Interested in full stack positions.
-* 🧱   Learning: Python, JavaScript and eventually if I can, C++
+* 🧱   Using: Python, C#, JavaScript.
+* 🔬   Diving in: Microservices and Distributed Architecture.
 * 💼   Software Developer at AyT.
 * 🎓   Software Developer and Designer from Duoc UC, Santiago, Chile.
 * 🌱   Believer and Modern Philosopher.
