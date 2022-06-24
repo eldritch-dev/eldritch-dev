@@ -24,7 +24,7 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eldritch-dev&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="eldritch-dev's Github Stats" />
 
-![Eldritch's github stats](https://github-readme-stats.vercel.app/api?username=eldritch-dev&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="eldritch-dev's Github Stats")
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eldritch-dev&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="eldritch-dev's Github Stats" />
 </p>
 
 </details>
