@@ -10,7 +10,7 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 * 🌱   Believer and Modern Philosopher.
 * 📚   Reading Clean Code: A Handbook of Agile Software Craftsmanship.
 * 💻   3 years' working experience on tech & +10 previous years of design experience
-* ⛵   My objective is to keep learning on this ever growing field. Looking forward to master fullstack development.
+* 🧭   My objective is to keep learning on this ever growing field. Looking forward to master fullstack development.
 * ✍🏻   Personal thoughts on Programming & Tech in my [Personal Blog](https://eldritchdev.medium.com).
 
 <details>
