@@ -8,7 +8,7 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 * 💼   Software Developer at AyT.
 * 🎓   Software Developer and Designer from Duoc UC, Santiago, Chile.
 * 🌱   Believer and Modern Philosopher.
-* 📚   Reading Clean Code: A Handbook of Agile Software Craftsmanship.
+* 📚   Reading? : nothing related for the moment.
 * 💻   3 years' working experience on tech & +10 previous years of design experience
 * 🧭   My objective is to keep learning on this ever growing field. Looking forward to master fullstack development.
 * ✍🏻   Personal thoughts on Programming & Tech in my [Personal Blog](https://eldritchdev.medium.com).
