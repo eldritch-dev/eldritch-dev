@@ -2,12 +2,10 @@
 
 I make elegantly professional **🌐 Websites** for fun and also **write some blog posts**.   
 
-* 🧐   Interested in full stack positions.
-* 🧱   Using: Python, C#, JavaScript.
+* 🧱   Using: Angular, C#, MSSQLServer.
 * 🔬   Diving in: Microservices and Distributed Architecture.
 * 💼   Software Developer at AyT.
 * 🎓   Software Developer and Designer from Duoc UC, Santiago, Chile.
-* 🌱   Believer and Modern Philosopher.
 * 📚   Reading? : nothing related for the moment.
 * 💻   3 years' working experience on tech & +10 previous years of design experience
 * 🧭   My objective is to keep learning on this ever growing field. Looking forward to master fullstack development.
