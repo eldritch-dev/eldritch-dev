@@ -2,7 +2,7 @@
 
 I make elegantly professional **🌐 Websites** for fun and also **write some blog posts**.   
 
-* 🧱   Using: Angular, C#, Asp.Net Core, MS SQL Server.
+* 🧱   Currently Using: Angular, C#, Asp.Net Core, MS SQL Server.
 * 🔬   Diving in: Microservices and Distributed Architecture.
 * 💼   Software Developer at AyT.
 * 🎓   Software Developer and Designer from Duoc UC, Santiago, Chile.
