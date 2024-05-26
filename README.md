@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 I make elegantly professional **🌐 Websites** for fun and also **write some blog posts**.   
 
