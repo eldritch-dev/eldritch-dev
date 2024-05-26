@@ -2,7 +2,7 @@
 
 I make elegantly professional **🌐 Websites** for fun and also **write some blog posts**.   
 
-* 💼   Software Developer at AyT, Santiago, Chile.
+* 💼   Full Stack Developer at AyT, Santiago, Chile.
 * 🧱   Currently Using: Angular, C#, Asp.Net Core, MS SQL Server.
 * 🔬   Diving in: Microservices and Distributed Architecture.
 * 🎓   Alma Mater: Duoc UC, Santiago, Chile.
