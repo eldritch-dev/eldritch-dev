@@ -4,11 +4,11 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 
 * 💼   Frontend Developer at AyT, Santiago, Chile. 3 Years of previous experience as Full Stack Dev.
 * 🧱   Currently Using: Angular, C#, Asp.Net Core, MS SQL Server & Python, Flask, SQL Alchemy and PostgreSQL.
-* 🔬   Diving in: Microservices and Distributed Architecture.
+* 🔬   Dived once in: Microservices and Distributed Architecture. Not at the moment.
 * 🎓   Alma Mater: Duoc UC, Santiago, Chile.
-* 📚   Reading and Coding Along: The C# Player's Guide 5th edition.
+* 📚   Reading and Coding Along: The C# Player's Guide 5th edition. Not at the moment.
 * 💻   +3 years working as a developer
-* 🧭   My objective is to keep learning on this ever growing field. Looking forward to master frontend development.
+* 🧭   My objective is to keep learning on this ever growing field. Looking to create something outstanding.
 * ✍🏻   Personal thoughts on Programming & Tech in my [Personal Blog](https://eldritchdev.medium.com).
 
 <!--
