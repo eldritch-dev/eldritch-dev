@@ -11,7 +11,7 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 * 🧭  My objective is to keep learning on this ever growing field. Looking to create something outstanding.
 * ✍🏻  Personal thoughts on Programming & Tech in my [Personal Blog](https://eldritchdev.medium.com).
 * 🎉  Alumni at ZTM
-* 💵  Alumni at Platzi
+* ☄️  Alumni at Platzi
 
 <p align="center">
   <a href="https://skillicons.dev">
