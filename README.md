@@ -2,7 +2,7 @@
 
 I make elegantly professional **🌐 Websites** for fun and also **write some blog posts**.   
 
-* 💼  Ex-AyT, Santiago, Chile.
+* 🌍  Santiago, Chile.
 * 🧱  Currently Using: Angular, C#, Asp.Net Core, MS SQL Server.
 * 🔬  Diving in: Python, Flask, SQL Alchemy and PostgreSQL.
 * 🎓  Alma Mater: Duoc UC, Santiago, Chile.
