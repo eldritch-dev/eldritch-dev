@@ -4,7 +4,7 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 
 * 🌍  Santiago, Chile.
 * 🧱  Currently Using: Angular, C#, Asp.Net Core, MS SQL Server.
-* 🔬  Diving in: Python, Flask, SQL Alchemy and PostgreSQL.
+* 🔬  Diving in: React Native, Python, Flask, SQL Alchemy and PostgreSQL.
 * 🎓  Alma Mater: Duoc UC, Santiago, Chile.
 * 📚  Prefered Book for C#: The C# Player's Guide 5th edition
 * 💻  +3 years working as a developer (full stack and frontend).
