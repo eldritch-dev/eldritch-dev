@@ -15,7 +15,7 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,angular,react,svg,nodejs,npm,js,ts,html,md,css,tailwind,docker,azure,cs,dotnet,py,flask" />
+    <img src="https://skillicons.dev/icons?i=angular,react,svg,nodejs,npm,js,ts,html,md,css,tailwind,docker,azure,cs,dotnet,py,flask,git,github,figma,vscode," />
   </a>
 </p>
   
