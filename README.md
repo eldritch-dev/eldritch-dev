@@ -37,8 +37,6 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-  
-<hr>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=eldritch-dev.eldritch-dev" alt="visitor badge"/>
