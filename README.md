@@ -14,7 +14,7 @@ I make elegantly professional **🌐 Websites** for fun and also **write some bl
 * ☄️  Alumni at Platzi
 
 <p align="center">
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,svg,nodejs,npm,js,ts,html,md,css,tailwind,docker,azure,cs,dotnet,py,flask,git,github,figma,vscode," />
   </a>
