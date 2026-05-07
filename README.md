@@ -3,8 +3,8 @@
 I make elegantly professional **🌐 Websites** for fun and also **write some blog posts**.   
 
 * 🌍  Santiago, Chile.
-* 🧱  Currently Using: Angular, C#, Asp.Net Core, MS SQL Server.
-* 🔬  Diving in: React Native, Python, Flask, SQL Alchemy and PostgreSQL.
+* 🧱  Currently Using: Astro, Next.js, Angular, C#, Asp.Net Core, MS SQL Server.
+* 🔬  Diving in: Entrepreneurship.
 * 🎓  Alma Mater: Duoc UC, Santiago, Chile.
 * 📚  Prefered Book for C#: The C# Player's Guide 5th edition
 * 💻  +4 years working as a developer (full stack).
